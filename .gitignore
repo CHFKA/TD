@@ -55,9 +55,12 @@ Intermediate/
 DerivedDataCache/
 Saved/
 Content/StarterContent/
-Content/AdvancedVillagePack
 ThirdParty/
 Build/
+
+Content/AdvancedVillagePack
+Content/CSC
+Content/SkeletonCrew
 
 #files
 
